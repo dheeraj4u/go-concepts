@@ -1,2 +1,1 @@
-# go-concepts
-All the concepts of go and examples
+# tour_of_go
